@@ -5,17 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8080b76a-5819-4e27-986b-f36fde9b37e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/contactmanager/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/contactmanager/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/contactmanager/ContactManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/contactmanager/FileHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/contactmanager/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Data/Contact.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,20 +30,22 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2u8L0qHfyvSKaQW0JpUPOpueCTd" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="org.contactmanager.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.contactmanager.Main" />
       <module name="ContactManager" />
       <extension name="coverage">
@@ -52,7 +60,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.org.contactmanager.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -65,6 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1741625036711</updated>
       <workItem from="1741625039102" duration="307000" />
+      <workItem from="1741625419721" duration="884000" />
     </task>
     <servers />
   </component>
