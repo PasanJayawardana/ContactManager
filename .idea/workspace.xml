@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8080b76a-5819-4e27-986b-f36fde9b37e8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Data/Contact.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Data/Contact.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/contactmanager/FileHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/contactmanager/FileHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/contactmanager/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/contactmanager/Utilities.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +43,12 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration name="org.contactmanager.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.contactmanager.Main" />
       <module name="ContactManager" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.contactmanager.*" />
+          <option name="PATTERN" value="org.contactmanager.Utilities" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1741625036711</updated>
       <workItem from="1741625039102" duration="307000" />
-      <workItem from="1741625419721" duration="1256000" />
+      <workItem from="1741625419721" duration="3658000" />
     </task>
     <servers />
   </component>

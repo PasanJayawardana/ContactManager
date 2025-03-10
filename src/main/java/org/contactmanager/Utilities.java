@@ -1,4 +1,4 @@
 package org.contactmanager;
 
-public class Utils {
+public class Utilities {
 }
