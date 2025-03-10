@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8080b76a-5819-4e27-986b-f36fde9b37e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/contactmanager/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/contactmanager/ContactManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/contactmanager/FileHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/contactmanager/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Data/Contact.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Data/Contact.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Data/Contact.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1741625036711</updated>
       <workItem from="1741625039102" duration="307000" />
-      <workItem from="1741625419721" duration="884000" />
+      <workItem from="1741625419721" duration="1256000" />
     </task>
     <servers />
   </component>

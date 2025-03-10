@@ -1,0 +1,10 @@
+Kamal,0772997043,kamal@gmail.com
+Nimal,0711234567,nimal@yahoo.com
+Sunil,0789876543,sunil@outlook.com
+Ruwan,0752233445,ruwan@gmail.com
+Saman,0765544332,saman@hotmail.com
+Chamara,0701122334,chamara@yahoo.com
+Ajith,0726677889,ajith@gmail.com
+Prasanna,0745566778,prasanna@live.com
+Gayan,0799988776,gayan@gmail.com
+Mahesh,0734455667,mahesh@outlook.com
